@@ -1,10 +1,11 @@
 [
   {
-    "name": "Retail Marketplace",
-    "desc": "Online retail marketplace platform with user authentication, product listings, shopping cart, and order management.",
-    "image": "instagrammern",
+    "name": "RetailMarketplace",
+    "desc": "Online retail marketplace platform built with the MERN stack, featuring user authentication, product listings, shopping cart, and order management.",
+    "image": "flipkartmern",
+    "category": "mern",
     "links": {
-      "code": "https://github.com/Software-of-65KTPM/Cho-ban-le.git"
+      "code": "https://github.com/jigar-sable/flipkart-mern"
     }
   }
 ]
